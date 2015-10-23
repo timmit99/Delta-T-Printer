@@ -1,0 +1,4 @@
+﻿"RodSpacing"= 50
+"Clamp_Gap"=2.5
+"Smooth_Rod_Hole"=6.9
+"Inside_Spacing"=70
